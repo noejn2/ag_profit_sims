@@ -1,0 +1,35 @@
+** R stuff
+.Rproj.user/
+
+** high_resolution_maps
+output/figs
+
+** Some quick examples to show the team
+EXAMPLES.R
+
+** Data Processing for county level simulations
+data/raw/
+data/processed/
+data/location_master_key.csv
+code/data_clean_process/
+data/state_sims.csv
+data/county_sims.rds
+data/state_sims.rds
+
+** Table 4 replication code --- gitignored because it appears in the other .do files
+*code/ajae_tab4_replication.do
+
+** Codes for team's specific requests about maps
+code/US_county_maps.R
+code/IL_county_maps_gdd_gtp.R
+code/IL_gtp_sim.do
+code/IL_gdd_sim.do
+code/IL_county_maps_impo_comp.R
+code/IL_county_maps.R
+
+
+
+
+
+
+
